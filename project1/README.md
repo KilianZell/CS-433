@@ -22,6 +22,7 @@ Then we project the prediction on {-1,1} with a threshold at $0.05$.
 ## Code description
 
 ## Generating a solution
+Put all the data in a folder /Data
 
 ## References
 Machine learning course at EPFL:
